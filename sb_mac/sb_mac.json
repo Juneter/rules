@@ -129,6 +129,10 @@
         "outbound": "bahamut"
       },
       {
+        "domain_suffix": "nodeseek.com",
+        "outbound": "us"
+      },
+      {
         "rule_set": [
           "gfw_domain",
           "geolocation-!cn",
