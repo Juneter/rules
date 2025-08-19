@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,hsbc.com.hk
 
 # BOC
 DOMAIN-SUFFIX,bochk.com
+
+# ZA
+DOMAIN-SUFFIX,za.group
